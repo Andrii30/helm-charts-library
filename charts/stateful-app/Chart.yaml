@@ -1,0 +1,6 @@
+apiVersion: v2
+name: stateful-app
+description: A StatefulSet chart with a per-pod PVC and headless Service
+type: application
+version: 0.1.0
+appVersion: "1.0.0"
