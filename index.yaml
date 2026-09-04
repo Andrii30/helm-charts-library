@@ -1,0 +1,36 @@
+apiVersion: v1
+entries:
+  generic-webapp:
+  - apiVersion: v2
+    appVersion: 1.0.0
+    created: "2026-09-04T20:06:50.809715573Z"
+    description: A generic stateless web app chart (Deployment + Service)
+    digest: 567e6f7227ee77076cbcb1576c736e208b20526eb471f9132428a1b978ce8637
+    name: generic-webapp
+    type: application
+    urls:
+    - https://github.com/Andrii30/helm-charts-library/releases/download/generic-webapp-0.1.0/generic-webapp-0.1.0.tgz
+    version: 0.1.0
+  simple-cronjob:
+  - apiVersion: v2
+    appVersion: 1.0.0
+    created: "2026-09-04T20:06:50.937952459Z"
+    description: A configurable CronJob chart
+    digest: 5b205a9c1c02af149cbe26561e44ef3000579080394467b78c0581e855abb520
+    name: simple-cronjob
+    type: application
+    urls:
+    - https://github.com/Andrii30/helm-charts-library/releases/download/simple-cronjob-0.1.0/simple-cronjob-0.1.0.tgz
+    version: 0.1.0
+  stateful-app:
+  - apiVersion: v2
+    appVersion: 1.0.0
+    created: "2026-09-04T20:06:51.07342825Z"
+    description: A StatefulSet chart with a per-pod PVC and headless Service
+    digest: c3e05ec968b201193f0adbde8a0d5f3801b181c0ed3e1efe531dbb38c382e2f9
+    name: stateful-app
+    type: application
+    urls:
+    - https://github.com/Andrii30/helm-charts-library/releases/download/stateful-app-0.1.0/stateful-app-0.1.0.tgz
+    version: 0.1.0
+generated: "2026-09-04T20:06:51.073438355Z"
