@@ -1,5 +1,9 @@
 # helm-charts-library
 
+[![Lint & Test](https://github.com/Andrii30/helm-charts-library/actions/workflows/lint-test.yaml/badge.svg)](https://github.com/Andrii30/helm-charts-library/actions/workflows/lint-test.yaml)
+[![Release Charts](https://github.com/Andrii30/helm-charts-library/actions/workflows/release.yaml/badge.svg)](https://github.com/Andrii30/helm-charts-library/actions/workflows/release.yaml)
+[![Helm repo](https://img.shields.io/badge/helm%20repo-Pages-blue)](https://andrii30.github.io/helm-charts-library/)
+
 Three reusable Helm charts, linted and install-tested by CI on every
 push, published as an installable Helm repo via GitHub Pages.
 
